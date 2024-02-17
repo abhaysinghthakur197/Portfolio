@@ -29,15 +29,15 @@ const About = () => {
             <div>
               <p>
                 {""}
-                I am AWS Fullstack Developer with 2 years of hands-
+                I am an AWS Fullstack Developer with 2 years of hands-
                 on expertise in React, Express, MongoDB, and Node.js.
                 Proficient in AWS Lambda, DynamoDB, RDS, and API Gateway
                 for cloud-based solutions. I have also worked with AWS security
-                teams to implement secure application in AWS enviornment using AWS custom and managed config rule service.
+                teams to implement secure applications in the AWS environment using AWS custom and managed config rule service.
                 <br /> <br />
-                In my free time I enjoy sharing my insights and experiences through blogging about the latest trends and technologies in the industry.
+                In my free time, I enjoy sharing my insights and experiences through blogging about the latest trends and technologies in the industry.
                  <br /> <br />
-                 Click on the resume buttton to get my latests resume.
+                 Click on the resume button to get my latest resume.
                 </p>
             </div>
           </div>
