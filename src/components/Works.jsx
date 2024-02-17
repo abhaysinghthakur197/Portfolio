@@ -28,8 +28,8 @@ const Work = () => {
               <Card.Body>
                 <Card.Title className='text-center underline py-3'>Space Dreamer website</Card.Title>
                 <Card.Text className='mx-5 my-3'>
-                  It is a Fullstack project space dreamer where user get the latest news of space industries and cosmos world.
-                  User can sign up also and add their own blog/article in the space dreamer. We created REST API for fetching all the data from mongodb database.
+                  It is a Fullstack project space dreamer where users get the latest news of space industries and the cosmos world.
+                  Users can sign up also and add their blog/article in the Space Dreamer. We created REST API for fetching all the data from Mongodb database.
                 </Card.Text>
                 <Card.Text className='mx-5 my-1' style={{ fontSize: '15px' }}>
                   <span className='text-warning font-family-bold' style={{ fontSize: '17px', color: 'yellow' }}>Tech Use:</span> React JS, React-Bootstrap, formik & yup (login/signup), NodeJs,  Express Js , MongoDB (Database).
@@ -51,8 +51,8 @@ const Work = () => {
               <Card.Body>
                 <Card.Title className='text-center underline py-5'>EVplan Website</Card.Title>
                 <Card.Text className='mx-5 my-1'>
-                  Evplan website all the information of EV vehicles before buying any vehicle. It also give info of all govt. schemes available for EV.
-                  It show all the EV vehicles present in 2 wheeler, 3 wheeler, 4 wheeler category. This project is for using css bootstap styling better.
+                  The Evplan website has all the information on EV vehicles before buying any vehicle. It also gives info on all govt. schemes available for EVs.
+                  It shows all the EV vehicles present in the 2-wheeler, 3-wheeler, and 4-wheeler categories. This project is for using css bootstrap styling better.
                 </Card.Text>
                 <Card.Text className='mx-5 my-4' style={{ fontSize: '15px' }}>
                   <span className='text-warning font-family-bold' style={{ fontSize: '17px', color: 'yellow' }}>Tech Use:</span> HTML5, Bootstrap, SASS, JAVASCRIPT, Jquery.
@@ -74,8 +74,8 @@ const Work = () => {
               <Card.Body>
                 <Card.Title className='text-center underline py-3'>Covid-19 Data</Card.Title>
                 <Card.Text className='mx-5 my-3'>
-                  Covid-19 Data website it shows total, recovered, death cases in the courtry. It also show the case different statewise. It use 'data.covid19india.org/data.json' api for getting the cases data.
-                  At the end it represent the data using graphs.
+                  The Covid-19 Data website shows the total, recovered, death cases in the country. It also shows the case differently statewide. It uses 'data.covid19india.org/data.json' API for getting the case data.
+                  At the end, it represents the data using graphs.
                 </Card.Text>
                 <Card.Text className='mx-5 my-2' style={{ fontSize: '15px' }}>
                   <span className='text-warning font-family-bold' style={{ fontSize: '17px', color: 'yellow' }}>Tech Use:</span> HTML5,  Bootstrap, Javascript, Jquery.
@@ -99,8 +99,8 @@ const Work = () => {
             <Card.Body>
               <Card.Title className='text-center underline py-3'>Weather-App</Card.Title>
               <Card.Text className='mx-5 my-3'>
-                It is a Weather-app, which gives the current weather of the any city in the world.
-                It uses javascript promise for handling the api data and showing the data.
+                It is a weather app, which gives the current weather of any city in the world.
+                It uses JavaScript promise for handling the API data and showing the data.
               </Card.Text>
               <Card.Text className='mx-5 my-1' style={{ fontSize: '15px' }}>
                 <span className='text-warning font-family-bold' style={{ fontSize: '17px', color: 'yellow' }}>Tech Use:</span> Javascript, Jquery, Bootstrap.
@@ -125,7 +125,7 @@ const Work = () => {
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
                   Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                  the bulk of the card's content.
                 </Card.Text>
                 <Button variant="primary">Go somewhere</Button>
               </Card.Body>
@@ -140,7 +140,7 @@ const Work = () => {
                 <Card.Title>Card Title</Card.Title>
                 <Card.Text>
                   Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
+                  the bulk of the card's content.
                 </Card.Text>
                 <Button variant="primary">Go somewhere</Button>
               </Card.Body>
