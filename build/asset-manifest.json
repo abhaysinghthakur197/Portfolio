@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50f4185d.css",
+    "main.js": "/static/js/main.a9b6302b.js",
+    "static/media/WeatherApp-Project.png": "/static/media/WeatherApp-Project.0aadbcf7b813195bd60d.png",
+    "static/media/lambda.png": "/static/media/lambda.5e19a5556097b356ebbe.png",
+    "static/media/lambda+DB.png": "/static/media/lambda+DB.d236e3552140f370e7b0.png",
+    "static/media/AWSSecurity.png": "/static/media/AWSSecurity.98a297a01612c2b8b536.png",
+    "static/media/me.jpg": "/static/media/me.559e2690a1b93c49fc99.jpg",
+    "static/media/Spacedreamer_Project.png": "/static/media/Spacedreamer_Project.5c7198691548ebf26032.png",
+    "static/media/Covid-19Data_Project.png": "/static/media/Covid-19Data_Project.db73175b72e669979add.png",
+    "static/media/EVplan_Project.png": "/static/media/EVplan_Project.42892cf49f30e82cd399.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.50f4185d.css.map": "/static/css/main.50f4185d.css.map",
+    "main.a9b6302b.js.map": "/static/js/main.a9b6302b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50f4185d.css",
+    "static/js/main.a9b6302b.js"
+  ]
+}

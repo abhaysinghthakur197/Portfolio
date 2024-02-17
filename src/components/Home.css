@@ -1,0 +1,29 @@
+.full {
+    flex-direction: row;
+}
+
+.left {
+    order: 1;
+}
+
+.right {
+    order: 2;
+}
+
+@media (max-width: 768px) {
+
+    /* Adjust max-width as needed */
+    .full {
+        flex-direction: column;
+        padding-top: 200px;
+    }
+
+    .left {
+        order: 2;
+        margin-top: 150px;
+    }
+
+    .right {
+        order: 1;
+    }
+}
