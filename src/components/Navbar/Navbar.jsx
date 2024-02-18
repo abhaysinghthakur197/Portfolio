@@ -8,14 +8,14 @@ import {
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import { Link } from 'react-scroll';
+import { Link  } from 'react-scroll';
 
 
 const Navbar = () => {
 
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
-
+  
 
   return (
     <div className='fixed w-full h-[60px]  px-4 bg-[#0a192f] text-gray-300 z-10'>
@@ -29,21 +29,21 @@ const Navbar = () => {
             >Home</Link>
           </li>
           <li>
-            <Link to="about" spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>About</Link>
+            <Link to="about"  spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>About</Link>
 
           </li>
           <li>
-            <Link to="skills" spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Skills</Link>
+            <Link to="skills"  spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Skills</Link>
 
           </li>
           <li>
-            <Link to="work" spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Work</Link>
+            <Link to="work"  spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Work</Link>
           </li>
           <li>
-            <Link to="blogs" spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Blogs</Link>
+            <Link to="blogs"  spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Blogs</Link>
           </li>
           <li>
-            <Link to="contact" spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Contact</Link>
+            <Link to="contact"  spy={true} smooth={true} offset={-70} duration={500} className='nav-link'>Contact</Link>
           </li>
           {/* <li>
             <button className="border">Hire me</button>
@@ -127,8 +127,8 @@ const Navbar = () => {
               <a
                 className='flex justify-between items-center w-full text-gray-300'
                 href='https://drive.google.com/file/d/1CZrkerC1srpLUGpdF86OW1TH81W4N2qF/view?usp=sharing'
-
-              >
+                
+                >
                 Resume <BsFillPersonLinesFill size={30} />
               </a>
             </li>

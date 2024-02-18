@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.50f4185d.css",
-    "main.js": "/static/js/main.a9b6302b.js",
+    "main.css": "/static/css/main.c512800d.css",
+    "main.js": "/static/js/main.b478972a.js",
     "static/media/WeatherApp-Project.png": "/static/media/WeatherApp-Project.0aadbcf7b813195bd60d.png",
     "static/media/lambda.png": "/static/media/lambda.5e19a5556097b356ebbe.png",
     "static/media/lambda+DB.png": "/static/media/lambda+DB.d236e3552140f370e7b0.png",
@@ -15,11 +15,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.50f4185d.css.map": "/static/css/main.50f4185d.css.map",
-    "main.a9b6302b.js.map": "/static/js/main.a9b6302b.js.map"
+    "main.c512800d.css.map": "/static/css/main.c512800d.css.map",
+    "main.b478972a.js.map": "/static/js/main.b478972a.js.map"
   },
   "entrypoints": [
-    "static/css/main.50f4185d.css",
-    "static/js/main.a9b6302b.js"
+    "static/css/main.c512800d.css",
+    "static/js/main.b478972a.js"
   ]
 }

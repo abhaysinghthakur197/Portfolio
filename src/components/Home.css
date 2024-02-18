@@ -10,20 +10,43 @@
     order: 2;
 }
 
+.profileImg {
+    position: relative;
+    /* border:  */
+    border-radius : 50%;
+    width: 140px;
+    height: 120px;
+    transform: scale(3);
+    z-index: 0;
+}
+
 @media (max-width: 768px) {
 
     /* Adjust max-width as needed */
+    #home {
+        padding-top: 8rem;
+    }
+    .aboutButton {
+        display: flex;
+        justify-content: center;
+    }
     .full {
         flex-direction: column;
-        padding-top: 200px;
+        padding-top: 7rem;
     }
 
     .left {
         order: 2;
-        margin-top: 150px;
+        margin-top: 2rem;  
     }
-
+    .left h2,h4,p {
+        text-align: center;
+    }
     .right {
         order: 1;
+    }
+    .profileImg {
+        width: 12vw;
+        height: 10vh;
     }
 }
