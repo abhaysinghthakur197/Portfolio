@@ -19,7 +19,7 @@ const Blogs = () => {
             image: lambda,
             title: 'Unleashing the Power of Serverless Computing with AWS Lambda',
             description: 'Hi guys,  In this blog we will talk about lambda function service of one of the know cloud provider in the market Amazon Web Services (AWS).',
-            link: 'https://medium.com/p/36948dd8986e/edit'
+            link: 'https://medium.com/@Abhay__singh/unleashing-the-power-of-serverless-computing-with-aws-lambda-16d7faedf095'
         },
         {
             image: lambdaDB,
