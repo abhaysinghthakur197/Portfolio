@@ -49,7 +49,7 @@ const About = () => {
 
           </div>
           <div className='flex justify-center my-5'>
-            <a href="https://drive.google.com/file/d/1CZrkerC1srpLUGpdF86OW1TH81W4N2qF/view?usp=sharing" target='_blank' rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/17pQLtgWcEYJBvDqHnPcfy6hxjNsA1T8Q/view?usp=sharing" target='_blank' rel="noopener noreferrer">
               <Button className="group text-white w-fit px-4 py-2 my-1 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer border-2 hover:bg-cyan-500 hover:border-cyan-500">Resume</Button>
             </a>
           </div>
