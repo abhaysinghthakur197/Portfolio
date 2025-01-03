@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.39992601.css",
-    "main.js": "/static/js/main.6de2fa73.js",
+    "main.js": "/static/js/main.af62ac84.js",
     "static/media/WeatherApp-Project.png": "/static/media/WeatherApp-Project.0aadbcf7b813195bd60d.png",
     "static/media/lambda.png": "/static/media/lambda.5e19a5556097b356ebbe.png",
     "static/media/lambda+DB.png": "/static/media/lambda+DB.d236e3552140f370e7b0.png",
@@ -16,10 +16,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.39992601.css.map": "/static/css/main.39992601.css.map",
-    "main.6de2fa73.js.map": "/static/js/main.6de2fa73.js.map"
+    "main.af62ac84.js.map": "/static/js/main.af62ac84.js.map"
   },
   "entrypoints": [
     "static/css/main.39992601.css",
-    "static/js/main.6de2fa73.js"
+    "static/js/main.af62ac84.js"
   ]
 }
