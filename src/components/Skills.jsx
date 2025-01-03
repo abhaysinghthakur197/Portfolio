@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container} from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 import '../App.css'
 
 const Skills = () => {
@@ -14,16 +14,34 @@ const Skills = () => {
                     </div>
                     <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>MONGO DB </p>
+                            <p className='my-4'>HTML,CSS,BOOTSTRAP</p>
                         </div>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>EXPRESS</p>
+                            <p className='my-4'>JAVASCRIPT</p>
                         </div>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>REACT JS</p>
+                            <p className='my-4'>REACT JS </p>
+                        </div>
+                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>REDUX</p>
+                        </div>
+                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>EXPRESS JS</p>
                         </div>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
                             <p className='my-4'>NODE JS </p>
+                        </div>
+                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>MONGO DB/SQL</p>
+                        </div><div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>NPM</p>
+                        </div><div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>WEBPACK</p>
+                        </div><div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>REST API</p>
+                        </div>
+                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>AWS RDS</p>
                         </div>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
                             <p className='my-4'>AWS LAMBDA</p>
@@ -35,19 +53,16 @@ const Skills = () => {
                             <p className='my-4'>AWS API Gateway</p>
                         </div>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>PYTHON</p>
-                        </div>
-                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>MYSQL / AWS RDS</p>
-                        </div>
-                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>GIT</p>
-                        </div>
-                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
-                            <p className='my-4'>BOOTSTRAP</p>
+                            <p className='my-4'>GIT/GITHUB</p>
                         </div>
                         <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
                             <p className='my-4'>AWS CloudWatch, SQS/SNS</p>
+                        </div>
+                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>AWS Cloudformation</p>
+                        </div>
+                        <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500 bg-warning-hover rounded'>
+                            <p className='my-4'>CI/CD</p>
                         </div>
                     </div>
                 </div>

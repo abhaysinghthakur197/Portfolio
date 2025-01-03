@@ -36,7 +36,7 @@ const Work = () => {
                     <span className='text-warning font-family-bold' style={{ fontSize: '17px', color: 'yellow' }}>Tech Use:</span> React JS, React-Bootstrap, formik & yup (login/signup), NodeJs,  Express Js , MongoDB (Database).
                   </Card.Text>
                   <div className='flex flex-row items-center justify-around  my-1'>
-                    <a href="https://main--spacedreamer.netlify.app/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://spacedreamer.netlify.app/" target="_blank" rel="noopener noreferrer">
                       <Button variant="primary" className='text-white border-2 hover:bg-cyan-500 hover:border-cyan-500 px-3 py-3 my-4 mx-auto flex items-center w-fit px-3 py-1 my-1 flex items-center rounded-md  rounded-ml bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>View Live</Button>
                     </a>
                     <a href="https://github.com/abhaysinghthakur197/SpaceDreamer--FullStack" target="_blank" rel="noopener noreferrer">
@@ -82,7 +82,7 @@ const Work = () => {
                     <span className='text-warning font-family-bold' style={{ fontSize: '17px', color: 'yellow' }}>Tech Use:</span> HTML5,  Bootstrap, Javascript, Jquery.
                   </Card.Text>
                   <div className='flex flex-row items-center justify-around  my-3'>
-                    <a href="https://abhaysinghthakur197.github.io/Covid-19-Data-Report-Site-/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://abhaysinghthakur197.github.io/Covid-Report/" target="_blank" rel="noopener noreferrer">
                       <Button variant="primary" className='text-white border-2 hover:bg-cyan-500 hover:border-cyan-500 px-3 py-3 my-9 mx-auto flex items-center w-fit px-3 py-1 my-1 flex items-center rounded-md  rounded-ml bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>View Live</Button>
                     </a>
                     <a href="https://github.com/abhaysinghthakur197/Covid-19-Data-Report-Site-/tree/master" target="_blank" rel="noopener noreferrer">

@@ -30,11 +30,12 @@ const About = () => {
             <div>
               <p>
                 {""}
-                I am an AWS Fullstack Developer with 2 years of hands-
-                on expertise in React, Express, MongoDB, and Node.js.
-                Proficient in AWS Lambda, DynamoDB, RDS, and API Gateway
-                for cloud-based solutions. I have also worked with AWS security
-                teams to implement secure applications in the AWS environment using AWS custom and managed config rule service.
+                I am a MERN Stack Developer with 2 years of expertise in building dynamic, full-stack web applications using React, Express, MongoDB, and Node.js.
+                My experience includes developing interactive user interfaces with React.js, designing and implementing RESTful APIs, managing authentication with JWT, and optimizing builds with Webpack.
+                
+                <br /> <br />
+                Additionally, I have worked with AWS security teams to implement secure applications in the AWS environment using AWS custom and managed config rule service.
+                I have leveraged AWS cloud technologies like Lambda, DynamoDB, RDS, and API Gateway to create secure and scalable solutions.    
                 <br /> <br />
                 In my free time, I enjoy sharing my insights and experiences through blogging about the latest trends and technologies in the industry.
                  <br /> <br />

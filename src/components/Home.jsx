@@ -7,7 +7,7 @@ import './Home.css'
 
 const Home = () => {
 
- 
+
   return (
     <Container>
       <div name="home" id='home' className='h-screen w-full bg-[#0a192f] mt-5 full'>
@@ -16,10 +16,10 @@ const Home = () => {
             <h2 className="text-4xl sm:text-7ml font-bold text-white">
               Hello, I'am Abhay Thakur
             </h2>
-            <h4 className='text-white my-3'>AWS FullStack Developer</h4>
+            <h4 className='text-white my-3'>Full-Stack Developer (MERN & AWS Specialist)</h4>
             <p className="text-gray-500 py-3 max-w-md">
-              Welcome to my portfolio website, I'm a passionate full-stack developer specializing in building web applications
-              with a focus on AWS cloud infrastructure.
+              Welcome to my portfolio! I’m a passionate full-stack developer specializing in the MERN stack and AWS cloud.
+              I love creating scalable, user-centric web applications that solve real-world problems.
               <br /><br />
               Feel free to explore my work.
             </p>

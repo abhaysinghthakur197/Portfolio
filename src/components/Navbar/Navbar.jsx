@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <div className='fixed w-full h-[60px]  px-4 bg-[#0a192f] text-gray-300 z-10'>
-      <div className='flex justify-between align-center  px-5 py-5'>
+      <div className='flex justify-between align-center px-5 py-5'>
         <div>
           <h1 className='font-thin text-2xl italic font-serif text-white'><span className='font-thin text-2xl italic font-serif'>A</span>bhay <span className='font-thin text-2xl italic font-serif text-white'>T</span>hakur</h1>
         </div>
@@ -83,10 +83,10 @@ const Navbar = () => {
             {' '}
             <Link onClick={handleClick} to='contact' smoth={true} duration={500}>Contact</Link>
           </li>
-          <li className='py-6 text-4xl border'>
+          {/* <li className='py-6 text-4xl border'>
             <button>Hire me</button>
 
-          </li>
+          </li> */}
         </ul>
 
         {/* {Social Icons} */}
